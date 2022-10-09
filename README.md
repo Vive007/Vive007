@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vive007
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c language 
-- 💞️ I’m looking to collaborate on ...c language bashed problem 
+- 🌱 I’m currently exploring multiple language 
 - 📫 How to reach me ... https://www.linkedin.com/in/vivek-kumar-35a3a6224
 
 <!---
