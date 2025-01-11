@@ -59,14 +59,14 @@ Worked on a React project for handling environment variables for API configurati
 ## 🌱 Currently Learning
 
 - **System Design:** Low-Level Design (LLD) with a focus on Distributed systems.
-- **Cassandra:** CRUD operations and data types.
 - **Advanced Java Collections & Design Patterns.**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vive007&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vive007&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&include_all_commits=true)
+
 
 ---
 
