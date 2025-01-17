@@ -65,7 +65,7 @@ Worked on a React project for handling environment variables for API configurati
 
 ## 📈 GitHub Stats
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vive007&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&include_all_commits=true)
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vive07&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&include_all_commits=true)
 
 
 ---
